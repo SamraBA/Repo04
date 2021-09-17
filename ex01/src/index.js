@@ -10,7 +10,7 @@ function main(numOne, numTwo){
     
     var numOne;
     var numTwo;
-    var quotient = numOne / numTwo
+    var quotient = numOne / numTwo;
 
     // Only change code above this line
      }
